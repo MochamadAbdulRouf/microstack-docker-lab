@@ -1,11 +1,9 @@
-Sip Rouf 🙌 aku rapikan jadi format **README.md** yang profesional dengan heading, emoji, dan struktur yang enak dibaca.
+Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan membuat sebuah lingkungan sederhana yang terdiri dari **API Service** dan **Database**, dihubungkan melalui custom network.
 
 ---
 
 ````markdown
 # 🐳 microstack-docker-lab
-
-Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan membuat sebuah lingkungan sederhana yang terdiri dari **API Service** dan **Database**, dihubungkan melalui custom network.
 
 ---
 
