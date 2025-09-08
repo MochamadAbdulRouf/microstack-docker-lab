@@ -40,9 +40,3 @@ Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan me
 Project ini dibuat untuk tujuan **pembelajaran**.
 Feel free to modify and experiment 🚀
 
-```
-
----
-
-Mau aku tambahin juga **bagian arsitektur (diagram sederhana)** biar README lebih keren dan jelas?
-```
