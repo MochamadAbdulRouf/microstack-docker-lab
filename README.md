@@ -5,8 +5,8 @@ Mini project modul untuk mempelajari Docker dan Docker Compose dengan membuat se
 
 Clone repo ini
 
-git clone https://github.com/rouf-devops/dockerized-webapp-network.git
-cd dockerized-webapp-network
+git clone [https://github.com/MochamadAbdulRouf/microstack-docker-lab.git](https://github.com/MochamadAbdulRouf/microstack-docker-lab.git)
+cd microstack-docker-lab
 
 
 Jalankan container dengan Docker Compose
