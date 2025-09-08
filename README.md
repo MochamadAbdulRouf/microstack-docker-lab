@@ -1,26 +1,50 @@
-# microstack-docker-lab
-Mini project modul untuk mempelajari Docker dan Docker Compose dengan membuat sebuah lingkungan sederhana yang terdiri dari API Service dan Database, dihubungkan melalui custom network.
+Sip Rouf 🙌 aku rapikan jadi format **README.md** yang profesional dengan heading, emoji, dan struktur yang enak dibaca.
 
-⚡ Cara Menjalankan
+---
 
-Clone repo ini
+````markdown
+# 🐳 microstack-docker-lab
 
-git clone [https://github.com/MochamadAbdulRouf/microstack-docker-lab.git](https://github.com/MochamadAbdulRouf/microstack-docker-lab.git)
-cd microstack-docker-lab
+Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan membuat sebuah lingkungan sederhana yang terdiri dari **API Service** dan **Database**, dihubungkan melalui custom network.
 
+---
 
-Jalankan container dengan Docker Compose
+## ⚡ Cara Menjalankan
 
-docker compose up -d
+1. Clone repo ini
+   ```bash
+   git clone https://github.com/MochamadAbdulRouf/microstack-docker-lab.git
+   cd microstack-docker-lab
+````
 
+2. Jalankan container dengan Docker Compose
 
-Akses API service di browser atau menggunakan curl:
+   ```bash
+   docker compose up -d
+   ```
 
-curl http://localhost:8080
+3. Akses API service di browser atau menggunakan curl
 
+   ```bash
+   curl http://localhost:8080
+   ```
 
-Untuk mematikan container + network + volume:
+4. Untuk mematikan container + network + volume
 
-docker compose down -v
+   ```bash
+   docker compose down -v
+   ```
 
-Project ini dibuat untuk tujuan pembelajaran. Feel free to fork, modify, and experiment 🚀
+---
+
+## 🎯 Tujuan
+
+Project ini dibuat untuk tujuan **pembelajaran**.
+Feel free to modify and experiment 🚀
+
+```
+
+---
+
+Mau aku tambahin juga **bagian arsitektur (diagram sederhana)** biar README lebih keren dan jelas?
+```
