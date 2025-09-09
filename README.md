@@ -36,7 +36,7 @@ Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan me
 ---
 
 # HASIL AKHIR TEST DI BROWSER
-![documentation](image/Screenshot_9.png)
+![documentation](image/Screenshot_1.png)
 
 ## 🎯 Tujuan
 
