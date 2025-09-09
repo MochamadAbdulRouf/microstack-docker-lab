@@ -13,26 +13,26 @@ Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan me
 
    git clone https://github.com/MochamadAbdulRouf/microstack-docker-lab.git
    cd microstack-docker-lab
-````
+
 
 2. Jalankan container dengan Docker Compose
 
    ```bash
    docker compose up -d
-   ```
+   
 
 3. Akses API service di browser atau menggunakan curl
 
    ```bash
    curl http://localhost:8080
-   ```
+  
 
 4. Untuk mematikan container + network + volume
 
    ```bash
    docker compose down -v
-   ```
-
+ 
+````
 ---
 
 # HASIL AKHIR TEST DI BROWSER
