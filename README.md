@@ -7,7 +7,7 @@ Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan me
 
 ---
 
-## ⚡ Cara Menjalankan
+## Cara Menjalankan project ini
 
 1. Clone repo ini
 
