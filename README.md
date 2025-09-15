@@ -30,7 +30,7 @@ Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan me
 
 ```bash
    docker compose down -v
-
+```
 
 
 # HASIL AKHIR TEST DI BROWSER
