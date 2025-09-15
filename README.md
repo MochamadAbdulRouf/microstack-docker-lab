@@ -25,13 +25,12 @@ Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan me
 
    ```bash
    curl http://localhost:8080
-  ```
-
+  
 4. Untuk mematikan container + network + volume
 
 ```bash
    docker compose down -v
- ```
+
 
 
 # HASIL AKHIR TEST DI BROWSER
