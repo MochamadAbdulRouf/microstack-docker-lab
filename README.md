@@ -18,8 +18,9 @@ Project **Docker** dan **Docker Compose** dengan membuat sebuah lingkungan seder
 
    ```bash
    curl http://localhost:8080
+   ```
   
-4. Untuk mematikan container + network + volume
+4. Untuk menghentikan dan menghapus container + network + volume
 
 ```bash
    docker compose down -v
