@@ -1,11 +1,4 @@
-Mini project modul untuk mempelajari **Docker** dan **Docker Compose** dengan membuat sebuah lingkungan sederhana yang terdiri dari **API Service** dan **Database**, dihubungkan melalui custom network.
-
----
-
-````markdown
-# 🐳 microstack-docker-lab
-````
----
+Project **Docker** dan **Docker Compose** dengan membuat sebuah lingkungan sederhana yang terdiri dari **API Service** dan **Database**, dihubungkan melalui custom network.
 
 ## Cara Menjalankan project ini
 
